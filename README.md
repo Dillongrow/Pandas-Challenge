@@ -15,8 +15,3 @@ My final report will include each of the following:
 7. Scores by School Spending
 8. Scores by School Size
 9. Scores by School Type
-
-
-### Copyright/Resources
-
-Trilogy Education Services © 2019. All Rights Reserved.
