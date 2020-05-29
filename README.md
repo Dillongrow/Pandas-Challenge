@@ -6,15 +6,15 @@ As a first task, I've been asked to analyze the district-wide standardized test 
 
 My final report will include each of the following:
 
-District Summary
-School Summary
-Top Performing Schools (By Passing Rate)
-Bottom Performing Schools (By Passing Rate)
-Math Scores by Grade
-Reading Scores by Grade
-Scores by School Spending
-Scores by School Size
-Scores by School Type
+1. District Summary
+2. School Summary
+3. Top Performing Schools (By Passing Rate)
+4. Bottom Performing Schools (By Passing Rate)
+5. Math Scores by Grade
+6. Reading Scores by Grade
+7. Scores by School Spending
+8. Scores by School Size
+9. Scores by School Type
 
 
 ### Copyright/Resources
